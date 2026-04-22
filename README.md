@@ -26,4 +26,3 @@ python virtual_keyboard.py
 - **Pinch index + thumb** together to type
 - Press **Q** to quit
 
-## 📁 Project Structure
